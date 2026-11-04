@@ -218,6 +218,3 @@ if (returnDate.isAfter(dueDate)) {
 
 ---
 
-## 📄 License
-MIT License. Built for software engineering portfolio and interview presentation.
-
